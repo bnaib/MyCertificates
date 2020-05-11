@@ -10,3 +10,6 @@ List of my certificates:
 	- C# Unity:  
 		- Introduction to C# Programming and Unity - 05/08/2020 - C#Unity_Coursera_001.pdf  
 			https://coursera.org/verify/JGPVZM7W27AX  
+	- Java Android  
+		- Java for Android - 05/11/2020 - JavaAndroid_Coursera_001.pdf  
+			https://coursera.org/verify/BSABA7TJZ2W8
