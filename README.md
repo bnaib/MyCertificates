@@ -2,6 +2,8 @@
 List of my certificates:  
 - Coursera:  
 	- Python:  
+		- Using Python to Access Web Data - 06/02/2020 - Python_Coursera_003.pdf  
+			https://coursera.org/verify/7E2HQYASBEXY  
 		- Python Data Structures - 05/22/2020 - Python_Coursera_002.pdf  
 			https://coursera.org/verify/2WNWV3DKDS7M  
 		- Programming for Everybody (Getting Started with Python) - 04/27/2020 - Python_Coursera_001.pdf  
