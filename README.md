@@ -1,9 +1,12 @@
 # MyCertificates
 List of my certificates:  
 - Coursera:  
-	- Python for Everybody - University of Michigan:  
+	- Python for Everybody - University of Michigan - 06/28/2020 - Python_Coursera.pdf:  
+		https://coursera.org/verify/specialization/KU43QNWWAMD8  
 		- Capstone: Retrieving, Processing, and Visualizing Data with Python - 06/27/2020 - Python_Coursera_005.pdf  
 			https://coursera.org/verify/WML4N39NCTG2  
+		- Using Databases with Python - 06/28/2020 - Python_Coursera_004.pdf  
+			https://coursera.org/verify/5ZRAAZB4EZTK  
 		- Using Python to Access Web Data - 06/02/2020 - Python_Coursera_003.pdf  
 			https://coursera.org/verify/7E2HQYASBEXY  
 		- Python Data Structures - 05/22/2020 - Python_Coursera_002.pdf  
