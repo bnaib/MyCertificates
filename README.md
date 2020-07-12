@@ -24,4 +24,4 @@ List of my certificates:
 			https://coursera.org/verify/BSABA7TJZ2W8  
 	- Машинное обучение и анализ данных:  
 		- Математика и Python для анализа данных - 12.07.2020 - MIPT_ML_001.pdf  
-			http://coursera.org/verify/NUS9PSPQGN6U  
+			https://coursera.org/verify/NUS9PSPQGN6U  
