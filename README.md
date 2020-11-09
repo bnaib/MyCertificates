@@ -26,5 +26,7 @@ List of my certificates:
 		- Математика и Python для анализа данных - 12.07.2020 - MIPT_ML_001.pdf  
 			https://coursera.org/verify/NUS9PSPQGN6U  
 	- Искусство разработки на современном C++:  
+		- Основы разработки на C++: жёлтый пояс - 09.11.2020 - MIPT_C++_002.pdf  
+			https://coursera.org/verify/5RZKCNTJQYF3  
 		- Основы разработки на C++: белый пояс - 24.07.2020 - MIPT_C++_001.pdf  
 			https://coursera.org/verify/C8S7NXWP86U3  
